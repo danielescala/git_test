@@ -1,0 +1,1 @@
+This is Danel S' first git project!
